@@ -14,7 +14,7 @@ let package = Package(
 .package(url: "https://github.com/adedwi1808/game-catalogue-Common-package.git", from: "1.0.0"),
         .package(
             url: "https://github.com/onevcat/Kingfisher.git",
-            from: "8.0.0"
+            from: "8.6.2"
         ),
     ],
     targets: [
