@@ -10,8 +10,8 @@ let package = Package(
         .library(name: "GameDetail", targets: ["GameDetail"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/adedwi1808/game-catalogue-Core-package.git", from: "1.0.1"),
-.package(url: "https://github.com/adedwi1808/game-catalogue-Common-package.git", from: "1.0.1"),
+        .package(url: "https://github.com/adedwi1808/game-catalogue-Core-package.git", from: "1.0.2"),
+.package(url: "https://github.com/adedwi1808/game-catalogue-Common-package.git", from: "1.0.2"),
         .package(
             url: "https://github.com/onevcat/Kingfisher.git",
             from: "8.6.2"
